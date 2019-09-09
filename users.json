@@ -1,0 +1,213 @@
+[
+	{
+		"id": 423555969,
+		"uid": 0,
+		"balance": 172135,
+		"loc": 0,
+		"click": 1,
+		"up": {
+			"cursor": 0,
+			"cursor_count": 0,
+			"bcursor": 0,
+			"bcursor_count": 0,
+			"mishka": 0,
+			"mishka_count": 0,
+			"smishka": 0,
+			"smishka_count": 0,
+			"kolonka": 0,
+			"kolonka_count": 0,
+			"printer": 0,
+			"printer_count": 0
+		},
+		"admin": 1,
+		"referal": null,
+		"mention": true,
+		"ban": false,
+		"work": 0,
+		"workenergy": 5,
+		"stag": 0,
+		"regDate": 1557864288240,
+		"timers": {
+			"bonus": false
+		},
+		"modules": {
+			"1": {
+				"price": 50,
+				"count": 0,
+				"profit": 1
+			},
+			"2": {
+				"price": 1400,
+				"count": 0,
+				"profit": 2
+			},
+			"3": {
+				"price": 2500,
+				"count": 0,
+				"profit": 3
+			},
+			"4": {
+				"price": 5000,
+				"count": 0,
+				"profit": 4
+			},
+			"5": {
+				"price": 10250,
+				"count": 0,
+				"profit": 6
+			},
+			"6": {
+				"price": 15000,
+				"count": 0,
+				"profit": 8
+			},
+			"7": {
+				"price": 455625,
+				"count": 6,
+				"profit": 10
+			}
+		},
+		"tag": "Владислав",
+		"foolder": 4
+	},
+	{
+		"id": 496175718,
+		"uid": 1,
+		"balance": 1,
+		"loc": 0,
+		"click": 1,
+		"up": {
+			"cursor": 0,
+			"cursor_count": 0,
+			"bcursor": 0,
+			"bcursor_count": 0,
+			"mishka": 0,
+			"mishka_count": 0,
+			"smishka": 0,
+			"smishka_count": 0,
+			"kolonka": 0,
+			"kolonka_count": 0,
+			"printer": 0,
+			"printer_count": 0
+		},
+		"admin": 0,
+		"referal": null,
+		"mention": true,
+		"ban": false,
+		"work": 0,
+		"workenergy": 5,
+		"stag": 0,
+		"regDate": 1557865018134,
+		"timers": {
+			"bonus": false
+		},
+		"modules": {
+			"1": {
+				"price": 50,
+				"count": 0,
+				"profit": 1
+			},
+			"2": {
+				"price": 1400,
+				"count": 0,
+				"profit": 2
+			},
+			"3": {
+				"price": 2500,
+				"count": 0,
+				"profit": 3
+			},
+			"4": {
+				"price": 5000,
+				"count": 0,
+				"profit": 4
+			},
+			"5": {
+				"price": 10250,
+				"count": 0,
+				"profit": 6
+			},
+			"6": {
+				"price": 15000,
+				"count": 0,
+				"profit": 8
+			},
+			"7": {
+				"price": 40000,
+				"count": 0,
+				"profit": 10
+			}
+		},
+		"tag": "Сергей"
+	},
+	{
+		"id": 380231925,
+		"uid": 2,
+		"balance": 0,
+		"loc": 0,
+		"click": 1,
+		"up": {
+			"cursor": 0,
+			"cursor_count": 0,
+			"bcursor": 0,
+			"bcursor_count": 0,
+			"mishka": 0,
+			"mishka_count": 0,
+			"smishka": 0,
+			"smishka_count": 0,
+			"kolonka": 0,
+			"kolonka_count": 0,
+			"printer": 0,
+			"printer_count": 0
+		},
+		"admin": 0,
+		"referal": null,
+		"mention": true,
+		"ban": false,
+		"work": 0,
+		"workenergy": 5,
+		"stag": 0,
+		"regDate": 1557865041269,
+		"timers": {
+			"bonus": false
+		},
+		"modules": {
+			"1": {
+				"price": 50,
+				"count": 0,
+				"profit": 1
+			},
+			"2": {
+				"price": 1400,
+				"count": 0,
+				"profit": 2
+			},
+			"3": {
+				"price": 2500,
+				"count": 0,
+				"profit": 3
+			},
+			"4": {
+				"price": 5000,
+				"count": 0,
+				"profit": 4
+			},
+			"5": {
+				"price": 10250,
+				"count": 0,
+				"profit": 6
+			},
+			"6": {
+				"price": 15000,
+				"count": 0,
+				"profit": 8
+			},
+			"7": {
+				"price": 40000,
+				"count": 0,
+				"profit": 10
+			}
+		},
+		"tag": "Артем"
+	}
+]
